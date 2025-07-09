@@ -13,3 +13,9 @@ Before we begin, I will say this:
 # Acknlowedgements
 - Thanks to "[Mike](https://github.com/mikepound)" (Michael Pound) at University of Nottingham for your talks about the topic!
 - Thanks to OPENAI'S GPT (specifically, `O3-PRO`)
+
+### Mini Note
+>
+> I made this repo while having a raging fever thats why my typing is very dry or slightly 'off'
+> but my love for these topics make me go anyway! so thanks to everyone for reading this!
+> Jane "LoneIceWolf" out!
