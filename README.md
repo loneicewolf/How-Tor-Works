@@ -11,4 +11,5 @@ Before we begin, I will say this:
 - Mike's explaining the topic - Extra Bits https://www.youtube.com/watch?v=6eWkdyRNfqY
 
 # Acknlowedgements
-Thanks to "[Mike](https://github.com/mikepound)" (Michael Pound) at University of Nottingham for your talks about the topic!
+- Thanks to "[Mike](https://github.com/mikepound)" (Michael Pound) at University of Nottingham for your talks about the topic!
+- Thanks to OPENAI'S GPT (specifically, `O3-PRO`)
