@@ -1,4 +1,6 @@
 # How-Tor-Works
+Why did I reply 3 times in the **tor_toy.md** file? Well to be sure 1 reply wasn't good or bad!
+
 I will also ask - GPT O3 - How good is it at this?
 How does tor work? Lets examine it!
 Before we begin, I will say this:
